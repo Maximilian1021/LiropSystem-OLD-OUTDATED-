@@ -1,0 +1,21 @@
+name: LiropSystem
+version: 1.0
+author: Maximilian1021
+
+main: me.Maximilian1021.LiropSystem.LiropSystem
+
+commands:
+  VIP:
+  Elite:
+  Titan:
+  Legende:
+  Ultimate:
+  Kopf:
+  welt:
+  setwelt:
+  vip2:
+  ClearChat:
+  Beta:
+  Vote:
+  book:
+  r
